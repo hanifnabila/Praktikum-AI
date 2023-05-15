@@ -1,0 +1,61 @@
+Praktikum Kecerdasan Buatan
+2. Representasi Pengetahuan
+
+Karena ada kendala maka akan dilakukan 2 kali, agar bisa nututi teorinya.
+
+Laporan dikumpulkan Minggu depan
+
+Representasi Pengetahuan Lgoika
+
+Dasar Toeri Representasi Pengetahuan
+Representasi Pengetahuan
+
+Review
+Apabila diberi pengetahuan yang salah maka proses berpikir juga akan menjadi salah.
+- Pengetahuan pnya metode untuk mengimplementasi pengetahuan
+
+Representasi Logik
+represesntasi untuk fakta -fakta yang memang bisa dinilai secara logic : ilustrasi
+
+Dimulai dengan predikat kemudian didalam tanda kurung itu adalah argument, argument bisa lebih dari satu.
+contoh : 2 D4 B belajar AI
+maka ada 2 argument
+predikat (argument, ...)
+
+representasi logika:
+2 D4 B Belajar
+
+assignment didalam prolog pake (:)
+
+Ketika kompter bisa menjawab setelah diberi fakta kemudian menalanrnya, maka dia adalah kecerdasan buatan yang sederhana
+
+swiprolog
+
+2. Contoh kasus representasi Pengetahuan
+argument boleh dibalik tapi harus konsisten
+
+3 Contoh Query
+contoh 3 padahal saudara perempuan tidak ada maka harus menggabungkan 2 predikat tersebut yaitu anaklaki dan perempuan
+
+#di prolog logika and (,)
+
+
+rekursif itu harus ada konidisi berhentinya.
+
+rekursif factorial
+n!	= n * (n-1)!
+	= n * (n-1) * (n-2)!
+	= .................(n-n)!
+				  ---
+				   0	
+
+fungsi recursif
+
+int fact (int i) {
+	if (i=0) 
+		return 1;
+	else
+		return i * fact (i-1);
+}
+	
+

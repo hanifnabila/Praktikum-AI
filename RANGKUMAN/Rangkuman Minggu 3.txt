@@ -1,0 +1,17 @@
+Rangkuman Minggu Ketiga
+8:18 06/03/2023
+
+Materi 
+
+Representasi Pengetahuan Reasoning
+- dalam ai akan sering menggunakan reasoning > alasan. kalau ada fakta ditanyakan alasannya apa. Bisa dapat jawaban dari fakta yang sudah direpresentasikan.
+- representasi pengetahuan itu digunakan untuk merepresentasikan fakta
+- is > assignment untuk logic, kalo di java / c pake "=".
+- janlup, kalo ada dua baris itu "or", kalo salah satu memenuhi berarti "yes", kalo dua duanya tidak memenuhi "no"
+
+Semantic Network
+- Bisa digunakan untuk fakta yang beroriantasi object
+
+- kotak > class, bulat > object, yg ada digaris > attribute.
+- 
+sat_on > relasi 

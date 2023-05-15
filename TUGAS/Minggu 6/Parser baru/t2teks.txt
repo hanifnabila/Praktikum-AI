@@ -1,0 +1,6 @@
+Kalimat -> Subyek, Predikat
+Subyek -> Determinan, KataBenda
+Predikat -> KataKerja, KataBenda
+Determinan -> seorang
+KataBenda -> dokter, pasien, obat, suntik, resep
+KataKerja -> merawat, memeriksa, menyuntik

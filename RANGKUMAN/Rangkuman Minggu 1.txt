@@ -1,0 +1,21 @@
+Kecerdasan Buatan (Artifial Intellegence) Intelegence dibuat tuhan, buatannya dibuat manusia. Dia berusaha mendekati aslinya, tapi pasti ada kurangnya.
+-menjadi salah satu bidang di revolusi 4.0
+-cita2nya membuat robot yang menyerupai manusia
+-bagian dari teknologi, digunakan untuk membantu manusia, bukan merusak yang lain
+-teknologi bisa menjadi pisau bermata 2
+-di jepang ada yang menciptakan robot seperti dirinya
+-bagaimana mesin cerdas daripada manusia
+-masalah direpresentasikan dulu, baru dibuat struktur datanya
+-metode heuristic > menggunakan langkah yang sudah pasti
+-apa yang dibutuhkan untuk berfikir : otak > berfungsi untuk berfikir, otak butuh input, input berupa faka yang terindra kalo tdk terindra jadinya dugaan saja, indra yang paling optimal untuk berfikir adalah mata, ada yang gila karena berfikir tanpa adanya fakta jadi dipikir terus, kalo dimesin indra itu menjadi sensor
+- satu fakta,indra, pengetahuan, terjadi proses berfikir , dan menjadi solusi
+-ada fakta yang diindra,fitur image berdasarkan warna, tekstur, bentuk, 
+- sensor menangkap fakta, kemudian sensor diberi pengetahuan, diberi  algoritma tertentu / diinference, sehingga mendapat solusi.
+-agar komputer bisa cerdas maka harus diberi pengetahuan dan kemampuan menalar
+0 makanya anak sd diberi pengetahuan bilangan dulu baru diberi operasi, pengetahuannya bertahap
+-proses berfikir
+0kecerdasan buatan itu bersifat permanen, berbeda dengan kecerdasan alami
+-lebih mudah dipublikasi dan disebarkan
+-lebih murah yang mahal membangun diawal
+
+-awalnya comput itu sebenernya buat menghitung
